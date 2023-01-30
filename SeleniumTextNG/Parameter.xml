@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test Suite2">
+<test name ="Test Cases2">
+<parameter name="Name" value="Albie"></parameter>
+	
+<classes>
+<class name="TestNG.ParameterExample"></class>
+</classes>	
+</test>
+</suite> 
+
+
